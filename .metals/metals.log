@@ -412,3 +412,877 @@ WARNING: Unmatched cancel notification for request id 1680
 2022.12.13 16:26:25 INFO  time: compiled tp-note in 64ms[0m
 2022.12.13 16:26:32 INFO  compiling tp-note (1 scala source)[0m
 2022.12.13 16:26:32 INFO  time: compiled tp-note in 0.4s[0m
+Dec 13, 2022 4:27:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2012
+Dec 13, 2022 4:27:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2013
+2022.12.13 16:27:23 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:27:23 INFO  time: compiled tp-note in 0.73s[0m
+Dec 13, 2022 4:27:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2051
+2022.12.13 16:27:34 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:27:34 INFO  time: compiled tp-note in 77ms[0m
+2022.12.13 16:27:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:41 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:44 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:44 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:44 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:51 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:27:58 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:00 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:03 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:08 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:10 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:10 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:10 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:10 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:10 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:10 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:11 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:14 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:15 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:15 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:16 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:20 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:20 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:22 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:26 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:26 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:26 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:28 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:28 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:28 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:28:28 INFO  time: compiled tp-note in 82ms[0m
+2022.12.13 16:28:29 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:30 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:31 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:28:30 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:28:31 INFO  time: compiled tp-note in 0.5s[0m
+2022.12.13 16:28:45 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:28:45 INFO  time: compiled tp-note in 0.45s[0m
+2022.12.13 16:29:08 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:29:08 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:29:08 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:29:08 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:29:09 INFO  time: compiled tp-note in 1.8s[0m
+2022.12.13 16:29:27 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:29:27 INFO  time: compiled tp-note in 0.67s[0m
+2022.12.13 16:29:36 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:29:37 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:29:36 INFO  time: compiled tp-note in 0.45s[0m
+2022.12.13 16:30:11 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:30:11 INFO  time: compiled tp-note in 0.24s[0m
+2022.12.13 16:30:15 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:30:15 INFO  time: compiled tp-note in 72ms[0m
+2022.12.13 16:30:17 INFO  compiling tp-note (2 scala sources)[0m
+2022.12.13 16:30:17 INFO  time: compiled tp-note in 60ms[0m
+2022.12.13 16:30:19 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:30:19 INFO  time: compiled tp-note in 68ms[0m
+2022.12.13 16:30:45 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:30:45 INFO  time: compiled tp-note in 26ms[0m
+2022.12.13 16:30:58 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:30:58 INFO  time: compiled tp-note in 0.54s[0m
+2022.12.13 16:31:03 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:03 INFO  time: compiled tp-note in 33ms[0m
+2022.12.13 16:31:03 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:03 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:04 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:04 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:04 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:04 INFO  time: compiled tp-note in 0.42s[0m
+Dec 13, 2022 4:31:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2671
+2022.12.13 16:31:26 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:26 INFO  time: compiled tp-note in 0.52s[0m
+Dec 13, 2022 4:31:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2685
+Dec 13, 2022 4:31:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2687
+2022.12.13 16:31:34 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:34 INFO  time: compiled tp-note in 45ms[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:35 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:35 INFO  time: compiled tp-note in 27ms[0m
+2022.12.13 16:31:35 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:35 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:35 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:38 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:38 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:40 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:40 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:40 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:40 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:40 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:31:40 INFO  time: compiled tp-note in 0.49s[0m
+2022.12.13 16:31:52 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:31:52 INFO  time: compiled tp-note in 0.44s[0m
+2022.12.13 16:32:26 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:32:26 INFO  time: compiled tp-note in 55ms[0m
+2022.12.13 16:35:19 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:35:19 INFO  time: compiled tp-note in 0.54s[0m
+Dec 13, 2022 4:35:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2814
+2022.12.13 16:35:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:35:52 INFO  time: compiled tp-note in 1.92s[0m
+2022.12.13 16:35:52 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:35:53 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:35:52 INFO  time: compiled tp-note in 0.38s[0m
+2022.12.13 16:38:12 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:38:12 INFO  time: compiled tp-note in 0.52s[0m
+2022.12.13 16:38:18 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:38:18 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:38:18 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:38:18 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:38:18 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:38:18 INFO  time: compiled tp-note in 0.45s[0m
+2022.12.13 16:38:27 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:38:27 INFO  time: compiled tp-note in 0.39s[0m
+2022.12.13 16:40:11 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:40:11 INFO  time: compiled tp-note in 0.11s[0m
+2022.12.13 16:40:11 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:29 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:32 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:35 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:36 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:36 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:39 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:41 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:46 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:50 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:52 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:18:3: stale bloop error: type mismatch;
+ found   : Unit
+ required: Int
+  }
+  ^[0m
+2022.12.13 16:40:52 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:18:3: stale bloop error: type mismatch;
+ found   : Unit
+ required: Int
+  }
+  ^[0m
+2022.12.13 16:40:52 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:52 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:52 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:52 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:18:3: stale bloop error: type mismatch;
+ found   : Unit
+ required: Int
+  }
+  ^[0m
+2022.12.13 16:40:52 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:40:52 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:13:11: stale bloop error: invalid literal number
+          1helper(c.tail, counter + 1)
+          ^[0m
+2022.12.13 16:40:52 INFO  time: compiled tp-note in 48ms[0m
+2022.12.13 16:40:53 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:53 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:13:11: stale bloop error: invalid literal number
+          1helper(c.tail, counter + 1)
+          ^[0m
+2022.12.13 16:40:53 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:13:11: stale bloop error: invalid literal number
+          1helper(c.tail, counter + 1)
+          ^[0m
+2022.12.13 16:40:54 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:54 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:40:54 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:40:54 INFO  time: compiled tp-note in 0.51s[0m
+2022.12.13 16:41:02 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:41:02 INFO  time: compiled tp-note in 0.69s[0m
+2022.12.13 16:41:24 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:41:24 INFO  time: compiled tp-note in 0.42s[0m
+2022.12.13 16:41:49 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:41:49 INFO  time: compiled tp-note in 0.38s[0m
+2022.12.13 16:43:24 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:43:24 INFO  time: compiled tp-note in 0.16s[0m
+2022.12.13 16:43:25 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:43:53 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:44:31 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:44:36 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:44:37 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:44:39 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:44:41 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:44:41 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:44:42 INFO  time: compiled tp-note in 1.19s[0m
+2022.12.13 16:45:07 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:45:10 INFO  time: compiled tp-note in 2.4s[0m
+2022.12.13 16:45:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+Exception in thread "pool-5-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022.12.13 16:45:55 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:45:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:55 INFO  time: compiled tp-note in 0.42s[0m
+2022.12.13 16:45:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:58 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:59 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:45:59 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:46:00 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:46:01 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:46:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:46:01 INFO  time: compiled tp-note in 0.77s[0m
+2022.12.13 16:46:13 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:46:13 INFO  time: compiled tp-note in 0.67s[0m
+2022.12.13 16:46:50 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:46:50 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:46:50 INFO  time: compiled tp-note in 0.59s[0m
+2022.12.13 16:48:09 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:48:09 INFO  time: compiled tp-note in 0.56s[0m
+2022.12.13 16:48:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:48:51 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:48:51 INFO  time: compiled tp-note in 0.17s[0m
+2022.12.13 16:48:51 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:48:53 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:48:57 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:00 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:00 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:49:00 INFO  time: compiled tp-note in 58ms[0m
+2022.12.13 16:49:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:02 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:03 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:03 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:49:03 INFO  time: compiled tp-note in 71ms[0m
+2022.12.13 16:49:03 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:04 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:49:05 INFO  time: compiled tp-note in 0.84s[0m
+2022.12.13 16:50:01 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:50:01 INFO  time: compiled tp-note in 0.6s[0m
+2022.12.13 16:50:18 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:50:18 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:50:19 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:50:19 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:50:19 INFO  time: compiled tp-note in 1.11s[0m
+2022.12.13 16:50:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:50:51 INFO  time: compiled tp-note in 0.69s[0m
+2022.12.13 16:51:10 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:51:11 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:51:13 INFO  time: compiled tp-note in 2.33s[0m
+2022.12.13 16:51:54 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:51:55 INFO  time: compiled tp-note in 1.08s[0m
+2022.12.13 16:52:30 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:52:30 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:52:30 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:52:30 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:52:33 INFO  time: compiled tp-note in 2.55s[0m
+2022.12.13 16:53:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:05 INFO  time: compiled tp-note in 0.12s[0m
+2022.12.13 16:53:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:05 INFO  time: compiled tp-note in 50ms[0m
+2022.12.13 16:53:16 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:16 INFO  time: compiled tp-note in 47ms[0m
+2022.12.13 16:53:16 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:17 INFO  time: compiled tp-note in 0.14s[0m
+2022.12.13 16:53:27 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:27 INFO  time: compiled tp-note in 0.39s[0m
+2022.12.13 16:53:39 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:39 INFO  time: compiled tp-note in 0.83s[0m
+2022.12.13 16:53:46 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:53:46 INFO  time: compiled tp-note in 0.2s[0m
+2022.12.13 16:55:47 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:55:47 INFO  time: compiled tp-note in 0.8s[0m
+2022.12.13 16:57:25 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:57:25 INFO  time: compiled tp-note in 59ms[0m
+2022.12.13 16:57:37 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:57:37 INFO  time: compiled tp-note in 0.31s[0m
+2022.12.13 16:57:47 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:57:47 INFO  time: compiled tp-note in 0.39s[0m
+2022.12.13 16:58:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:58:05 INFO  time: compiled tp-note in 49ms[0m
+2022.12.13 16:58:09 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:58:09 INFO  time: compiled tp-note in 0.15s[0m
+2022.12.13 16:58:18 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:58:18 INFO  time: compiled tp-note in 42ms[0m
+2022.12.13 16:58:24 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:58:26 INFO  time: compiled tp-note in 1.57s[0m
+Dec 13, 2022 4:58:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4843
+2022.12.13 16:59:00 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:59:00 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:59:01 INFO  time: compiled tp-note in 1.25s[0m
+2022.12.13 17:00:38 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:00:38 INFO  time: compiled tp-note in 0.27s[0m
+2022.12.13 17:00:42 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:00:42 INFO  time: compiled tp-note in 0.24s[0m
+2022.12.13 17:00:44 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:00:44 INFO  time: compiled tp-note in 0.14s[0m
+Dec 13, 2022 5:01:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5057
+2022.12.13 17:01:53 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:01:53 INFO  time: compiled tp-note in 60ms[0m
+2022.12.13 17:01:58 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:01:58 INFO  time: compiled tp-note in 0.19s[0m
+2022.12.13 17:02:48 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:02:48 INFO  time: compiled tp-note in 0.42s[0m
+2022.12.13 17:02:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:02:51 INFO  time: compiled tp-note in 0.15s[0m
+2022.12.13 17:02:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:02:51 INFO  time: compiled tp-note in 0.12s[0m
+2022.12.13 17:03:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:05 INFO  time: compiled tp-note in 0.12s[0m
+2022.12.13 17:03:09 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:09 INFO  time: compiled tp-note in 0.14s[0m
+2022.12.13 17:03:12 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:12 INFO  time: compiled tp-note in 0.12s[0m
+2022.12.13 17:03:12 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:12 INFO  time: compiled tp-note in 97ms[0m
+2022.12.13 17:03:43 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:43 INFO  time: compiled tp-note in 0.33s[0m
+2022.12.13 17:03:48 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:48 INFO  time: compiled tp-note in 0.3s[0m
+2022.12.13 17:03:58 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:03:58 INFO  time: compiled tp-note in 0.2s[0m
+2022.12.13 17:04:12 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:04:12 INFO  time: compiled tp-note in 0.12s[0m
+2022.12.13 17:04:17 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:04:17 INFO  time: compiled tp-note in 0.11s[0m
+2022.12.13 17:04:24 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:04:24 INFO  time: compiled tp-note in 0.22s[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:69:12: stale bloop error: pattern type is incompatible with expected type;
+ found   : Main.Vide.type
+ required: Main.Liste.type
+      case Vide => Vide
+           ^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:70:12: stale bloop error: constructor cannot be instantiated to expected type;
+ found   : Main.NonVide[A]
+ required: Main.Liste.type
+      case NonVide(tete, queue) => NonVide(f(tete), queue.map(f))
+           ^^^^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:82:9: stale bloop error: value map is not a member of Main.Liste[Int]
+println((Vide: Liste[Int]).map[Int](x => x + 1)) // ==  Vide
+        ^^^^^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:84:9: stale bloop error: value map is not a member of Main.Liste[Int]
+println(Liste(1, 2, 3, 4).map(x => x + 1)) // == Liste(2, 3, 4, 5)
+        ^^^^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:69:12: stale bloop error: pattern type is incompatible with expected type;
+ found   : Main.Vide.type
+ required: Main.Liste.type
+      case Vide => Vide
+           ^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:70:12: stale bloop error: constructor cannot be instantiated to expected type;
+ found   : Main.NonVide[A]
+ required: Main.Liste.type
+      case NonVide(tete, queue) => NonVide(f(tete), queue.map(f))
+           ^^^^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:82:9: stale bloop error: value map is not a member of Main.Liste[Int]
+println((Vide: Liste[Int]).map[Int](x => x + 1)) // ==  Vide
+        ^^^^^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 17:09:31 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:84:9: stale bloop error: value map is not a member of Main.Liste[Int]
+println(Liste(1, 2, 3, 4).map(x => x + 1)) // == Liste(2, 3, 4, 5)
+        ^^^^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 17:09:47 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:09:47 INFO  time: compiled tp-note in 0.31s[0m
+2022.12.13 17:10:23 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:10:23 INFO  time: compiled tp-note in 45ms[0m
+2022.12.13 17:10:45 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:10:45 INFO  time: compiled tp-note in 54ms[0m
+2022.12.13 17:10:57 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:10:57 INFO  time: compiled tp-note in 0.13s[0m
+2022.12.13 17:11:11 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:11:11 INFO  time: compiled tp-note in 33ms[0m
+2022.12.13 17:11:45 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:11:45 INFO  time: compiled tp-note in 40ms[0m
+2022.12.13 17:12:01 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:12:01 INFO  time: compiled tp-note in 41ms[0m
+2022.12.13 17:12:34 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:12:34 INFO  time: compiled tp-note in 0.12s[0m
+2022.12.13 17:13:23 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:13:23 INFO  time: compiled tp-note in 0.2s[0m
+Dec 13, 2022 5:13:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+}
+found that rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+} is false
+where rhs = _
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+}
+found that rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+} is false
+where rhs = _
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+}
+found that rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+} is false
+where rhs = _
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Pat$Typed$.apply(Trees.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.typed$1(ScalametaParser.scala:2576)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern1$4(ScalametaParser.scala:2589)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.getSeqWildcard(ScalametaParser.scala:2570)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1(ScalametaParser.scala:2589)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1$(ScalametaParser.scala:2573)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern1(ScalametaParser.scala:2757)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patternAlternatives(ScalametaParser.scala:2527)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern(ScalametaParser.scala:2523)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern$(ScalametaParser.scala:2523)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern(ScalametaParser.scala:2757)
+	at scala.meta.internal.parsers.ScalametaParser.pattern(ScalametaParser.scala:2774)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$caseClause$1(ScalametaParser.scala:2402)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2388)
+	at scala.meta.internal.parsers.ScalametaParser.iter$3(ScalametaParser.scala:2433)
+	at scala.meta.internal.parsers.ScalametaParser.caseClausesIfAny(ScalametaParser.scala:2439)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2416)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$matchClause$3(ScalametaParser.scala:1444)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:251)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$matchClause$2(ScalametaParser.scala:1444)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.matchClause(ScalametaParser.scala:1444)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1647)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1505)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$3(ScalametaParser.scala:4349)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4203)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4349)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4331)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:531)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4331)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2377)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2379)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2376)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2373)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2111)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:354)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:364)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2085)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2083)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2067)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2049)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1616)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1505)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1389)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1413)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3599)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3561)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3503)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3337)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3316)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4276)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4222)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1(ScalametaParser.scala:4262)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1$adapted(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:531)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:251)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:247)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4118)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4099)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4073)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3807)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3799)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3676)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3356)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3316)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4276)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4222)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1(ScalametaParser.scala:4262)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1$adapted(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:531)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:251)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:247)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4118)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4032)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4041)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4084)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4073)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3807)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3799)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3676)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3657)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$4.applyOrElse(ScalametaParser.scala:4241)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$4.applyOrElse(ScalametaParser.scala:4229)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4222)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$14(ScalametaParser.scala:4437)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4437)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4392)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4385)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4385)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4390)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:129)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:122)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:92)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:319)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Dec 13, 2022 5:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+}
+found that rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+} is false
+where rhs = _
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+}
+found that rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+} is false
+where rhs = _
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+}
+found that rhs match {
+  case (((_): Type.Var)| ((_): Type.Placeholder)| ((_): Type.Wildcard)| ((_): Type.AnonymousParam)) => false
+  case _ => true
+} is false
+where rhs = _
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Pat$Typed$.apply(Trees.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.typed$1(ScalametaParser.scala:2576)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern1$4(ScalametaParser.scala:2589)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.getSeqWildcard(ScalametaParser.scala:2570)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1(ScalametaParser.scala:2589)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1$(ScalametaParser.scala:2573)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern1(ScalametaParser.scala:2757)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patternAlternatives(ScalametaParser.scala:2527)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern(ScalametaParser.scala:2523)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern$(ScalametaParser.scala:2523)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern(ScalametaParser.scala:2757)
+	at scala.meta.internal.parsers.ScalametaParser.pattern(ScalametaParser.scala:2774)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$caseClause$1(ScalametaParser.scala:2402)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.caseClause(ScalametaParser.scala:2388)
+	at scala.meta.internal.parsers.ScalametaParser.iter$3(ScalametaParser.scala:2433)
+	at scala.meta.internal.parsers.ScalametaParser.caseClausesIfAny(ScalametaParser.scala:2439)
+	at scala.meta.internal.parsers.ScalametaParser.caseClauses(ScalametaParser.scala:2416)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$matchClause$3(ScalametaParser.scala:1444)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:251)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$matchClause$2(ScalametaParser.scala:1444)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.matchClause(ScalametaParser.scala:1444)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1647)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1505)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$3(ScalametaParser.scala:4349)
+	at scala.meta.internal.parsers.ScalametaParser.stat(ScalametaParser.scala:4203)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1(ScalametaParser.scala:4349)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$blockStatSeq$1$adapted(ScalametaParser.scala:4331)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:531)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4331)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2377)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2379)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2376)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2373)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2111)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:354)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:364)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2085)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2083)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2067)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2049)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1616)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1505)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1389)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1413)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3599)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3561)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3503)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3337)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3316)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4276)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4222)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1(ScalametaParser.scala:4262)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1$adapted(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:531)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:251)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:247)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4118)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4099)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4073)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3807)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3799)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3676)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3356)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3316)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4276)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4270)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4222)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1(ScalametaParser.scala:4262)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateStatSeq$1$adapted(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:531)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4261)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:251)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:247)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4110)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4118)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4032)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4054)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4041)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4084)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4073)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3807)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:359)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:361)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3799)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3676)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3657)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$4.applyOrElse(ScalametaParser.scala:4241)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$4.applyOrElse(ScalametaParser.scala:4229)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4222)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$14(ScalametaParser.scala:4437)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4437)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4392)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4385)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:316)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:357)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4385)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4390)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:129)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:122)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:92)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:319)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.13 17:13:54 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:13:54 INFO  time: compiled tp-note in 0.13s[0m
+2022.12.13 17:13:54 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:13:54 INFO  time: compiled tp-note in 28ms[0m
+2022.12.13 17:13:57 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:13:57 INFO  time: compiled tp-note in 26ms[0m
+2022.12.13 17:14:10 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:14:11 INFO  time: compiled tp-note in 1.46s[0m
+2022.12.13 17:17:01 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:17:01 INFO  time: compiled tp-note in 0.13s[0m
+2022.12.13 17:17:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:17:05 INFO  time: compiled tp-note in 0.14s[0m
+2022.12.13 17:18:32 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:18:32 INFO  time: compiled tp-note in 0.11s[0m
+2022.12.13 17:19:41 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:19:41 INFO  time: compiled tp-note in 89ms[0m
+2022.12.13 17:19:54 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:19:55 INFO  time: compiled tp-note in 1.82s[0m
+Dec 13, 2022 5:19:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2022.12.13 17:20:14 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:20:14 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 17:20:15 INFO  time: compiled tp-note in 1.35s[0m
+2022.12.13 17:21:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:21:07 INFO  time: compiled tp-note in 1.17s[0m
+2022.12.13 17:22:26 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:22:28 INFO  time: compiled tp-note in 1.76s[0m
+2022.12.13 17:23:21 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:23:21 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 17:23:22 INFO  time: compiled tp-note in 1.47s[0m
+2022.12.13 17:23:31 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:23:31 INFO  time: compiled tp-note in 0.35s[0m
+Dec 13, 2022 5:24:07 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 2968, count -1, length 3125
+Dec 13, 2022 5:24:07 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 3049, count -1, length 3126
+2022.12.13 17:24:08 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:24:08 INFO  time: compiled tp-note in 0.17s[0m
+Dec 13, 2022 5:24:12 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 3049, count -1, length 3126
+2022.12.13 17:24:16 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:24:17 INFO  time: compiled tp-note in 1.44s[0m
+2022.12.13 17:25:08 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:25:08 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 17:25:10 INFO  time: compiled tp-note in 1.75s[0m
+2022.12.13 17:26:15 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:26:19 INFO  time: compiled tp-note in 3.78s[0m
+2022.12.13 17:26:24 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:26:24 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 17:26:26 INFO  time: compiled tp-note in 1.73s[0m
+2022.12.13 17:28:09 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:28:09 INFO  time: compiled tp-note in 71ms[0m
+2022.12.13 17:28:17 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:28:17 INFO  time: compiled tp-note in 49ms[0m
+2022.12.13 17:28:20 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:28:20 INFO  time: compiled tp-note in 0.17s[0m
+2022.12.13 17:28:55 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 17:28:56 INFO  time: compiled tp-note in 1.43s[0m
