@@ -1,0 +1,414 @@
+2022.12.13 15:57:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/.metals/lsp.trace.json or /Users/cryox/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.12.13 15:57:32 INFO  logging to file /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/.metals/metals.log[0m
+2022.12.13 15:57:32 INFO  Started: Metals version 0.11.9 in workspace '/Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note' for client Visual Studio Code 1.70.0.[0m
+2022.12.13 15:57:34 INFO  time: initialize in 1.55s[0m
+2022.12.13 15:57:39 WARN  Build server is not auto-connectable.[0m
+2022.12.13 15:57:43 INFO  running '/Users/cryox/.jabba/jdk/openjdk@1.17.0/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.12.13 15:57:44 ERROR [info] [launcher] getting org.scala-sbt sbt 1.7.3  (this may take some time)...[0m
+Dec 13, 2022 3:57:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.12.13 15:57:49 WARN  no build target for: /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 15:57:57 INFO  no build target found for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.0[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR :: loading settings :: url = jar:file:/private/var/folders/66/jzxbr6r91zncc3j76gqg5v440000gn/T/metals14698460328523305441/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.7.3/actions_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.7.3/run_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.7.3/logic_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.7.3/main-settings_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.7.0/io_2.12-1.7.0.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/1.7.3/sbt-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.7.3/command_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.7.3/main_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#actions_2.12;1.7.3!actions_2.12.jar (343ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.7.3/collections_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#logic_2.12;1.7.3!logic_2.12.jar (399ms)[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#sbt;1.7.3!sbt.jar (580ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.7.3/scripted-plugin_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#run_2.12;1.7.3!run_2.12.jar (612ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_2.12/1.7.3/zinc-lm-integration_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#io_2.12;1.7.0!io_2.12.jar (639ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.7.3/util-logging_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#command_2.12;1.7.3!command_2.12.jar (663ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.1/launcher-interface-1.4.1.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#main-settings_2.12;1.7.3!main-settings_2.12.jar (703ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/io/get-coursier/lm-coursier-shaded_2.12/2.0.12/lm-coursier-shaded_2.12-2.0.12.jar ...[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#scripted-plugin_2.12;1.7.3!scripted-plugin_2.12.jar (419ms)[0m
+2022.12.13 15:57:57 ERROR 	[SUCCESSFUL ] org.scala-sbt#collections_2.12;1.7.3!collections_2.12.jar (471ms)[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar ...[0m
+2022.12.13 15:57:57 ERROR downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-lm-integration_2.12;1.7.3!zinc-lm-integration_2.12.jar (290ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.1/log4j-slf4j-impl-2.17.1.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#main_2.12;1.7.3!main_2.12.jar (888ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.7.1/librarymanagement-core_2.12-1.7.1.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-logging_2.12;1.7.3!util-logging_2.12.jar (539ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.7.1/librarymanagement-ivy_2.12-1.7.1.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] com.github.ben-manes.caffeine#caffeine;2.8.5!caffeine.jar (494ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.7.2/compiler-interface-1.7.2.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#launcher-interface;1.4.1!launcher-interface.jar (626ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile_2.12/1.7.2/zinc-compile_2.12-1.7.2.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-slf4j-impl;2.17.1!log4j-slf4j-impl.jar (473ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.7.3/util-relation_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.17.1!log4j-core.jar (557ms)[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#librarymanagement-core_2.12;1.7.1!librarymanagement-core_2.12.jar (499ms)[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-api;2.17.1!log4j-api.jar (577ms)[0m
+2022.12.13 15:57:59 INFO  time: code lens generation in 8.42s[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.7.3/util-position_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.9.1/sjson-new-scalajson_2.12-0.9.1.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-compile_2.12;1.7.2!zinc-compile_2.12.jar (179ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.9.1/sjson-new-core_2.12-0.9.1.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#compiler-interface;1.7.2!compiler-interface.jar (485ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_2.12/0.9.1/shaded-jawn-parser_2.12-0.9.1.jar ...[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-relation_2.12;1.7.3!util-relation_2.12.jar (340ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.7.3/completion_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-position_2.12;1.7.3!util-position_2.12.jar (328ms)[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] com.eed3si9n#sjson-new-scalajson_2.12;0.9.1!sjson-new-scalajson_2.12.jar (322ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.7.3/task-system_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.7.3/tasks_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:58 ERROR 	[SUCCESSFUL ] com.eed3si9n#shaded-jawn-parser_2.12;0.9.1!shaded-jawn-parser_2.12.jar (329ms)[0m
+2022.12.13 15:57:58 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.7.3/testing_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#librarymanagement-ivy_2.12;1.7.1!librarymanagement-ivy_2.12.jar (726ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-tracking_2.12/1.7.3/util-tracking_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] com.eed3si9n#shaded-scalajson_2.12;1.0.0-M4!shaded-scalajson_2.12.jar (376ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#tasks_2.12;1.7.3!tasks_2.12.jar (343ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#task-system_2.12;1.7.3!task-system_2.12.jar (378ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.7.2/zinc-classpath_2.12-1.7.2.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#completion_2.12;1.7.3!completion_2.12.jar (413ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#testing_2.12;1.7.3!testing_2.12.jar (342ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.7.2/zinc_2.12-1.7.2.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.7.2/zinc-apiinfo_2.12-1.7.2.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-tracking_2.12;1.7.3!util-tracking_2.12.jar (294ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.7.3/util-control_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493/jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.jline#jline-terminal;3.19.0!jline-terminal.jar (249ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] io.get-coursier#lm-coursier-shaded_2.12;2.0.12!lm-coursier-shaded_2.12.jar (1589ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-builtins/3.19.0/jline-builtins-3.19.0.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc_2.12;1.7.2!zinc_2.12.jar (213ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-classpath_2.12;1.7.2!zinc-classpath_2.12.jar (253ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-control_2.12;1.7.3!util-control_2.12.jar (193ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.7.3/util-interface-1.7.3.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.7.3/core-macros_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt.jline#jline;2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493!jline.jar (199ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] com.eed3si9n#sjson-new-core_2.12;0.9.1!sjson-new-core_2.12.jar (968ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jansi/3.19.0/jline-terminal-jansi-3.19.0.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-apiinfo_2.12;1.7.2!zinc-apiinfo_2.12.jar (335ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.16/scala-compiler-2.12.16.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.jline#jline-reader;3.19.0!jline-reader.jar (218ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.jline#jline-builtins;3.19.0!jline-builtins.jar (203ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.1.0/jansi-2.1.0.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-interface;1.7.3!util-interface.jar (344ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.9/file-tree-views-2.1.9.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.jline#jline-terminal-jna;3.19.0!jline-terminal-jna.jar (344ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] com.lmax#disruptor;3.4.2!disruptor.jar (305ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.12.0/jna-5.12.0.jar ...[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.scala-sbt#core-macros_2.12;1.7.3!core-macros_2.12.jar (408ms)[0m
+2022.12.13 15:57:59 ERROR 	[SUCCESSFUL ] org.jline#jline-terminal-jansi;3.19.0!jline-terminal-jansi.jar (383ms)[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-style/3.19.0/jline-style-3.19.0.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.7.3/util-cache_2.12-1.7.3.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.9.1/sjson-new-murmurhash_2.12-0.9.1.jar ...[0m
+2022.12.13 15:57:59 ERROR downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.0/jna-platform-5.12.0.jar ...[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] net.java.dev.jna#jna;5.12.0!jna.jar (287ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] org.jline#jline-style;3.19.0!jline-style.jar (358ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] com.eed3si9n#sjson-new-murmurhash_2.12;0.9.1!sjson-new-murmurhash_2.12.jar (321ms)[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.7.3/test-agent-1.7.3.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.7.2/compiler-bridge_2.12-1.7.2.jar ...[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] com.swoval#file-tree-views;2.1.9!file-tree-views.jar (648ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-cache_2.12;1.7.3!util-cache_2.12.jar (432ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] org.fusesource.jansi#jansi;2.1.0!jansi.jar (664ms)[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.7.2/zinc-classfile_2.12-1.7.2.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_2.12/0.7.0/gigahorse-apache-http_2.12-0.7.0.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar ...[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] org.scala-sbt#test-interface;1.0!test-interface.jar (489ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] org.scala-sbt#test-agent;1.7.3!test-agent.jar (783ms)[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.7.0/gigahorse-core_2.12-0.7.0.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpasyncclient/0.7.0/shaded-apache-httpasyncclient-0.7.0.jar ...[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] net.java.dev.jna#jna-platform;5.12.0!jna-platform.jar (1132ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] org.scala-sbt#compiler-bridge_2.12;1.7.2!compiler-bridge_2.12.jar (709ms)[0m
+2022.12.13 15:58:00 ERROR 	[SUCCESSFUL ] com.eed3si9n#gigahorse-apache-http_2.12;0.7.0!gigahorse-apache-http_2.12.jar (671ms)[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.6.1/ssl-config-core_2.12-0.6.1.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar ...[0m
+2022.12.13 15:58:00 ERROR downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar ...[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] com.eed3si9n#gigahorse-core_2.12;0.7.0!gigahorse-core_2.12.jar (671ms)[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-classfile_2.12;1.7.2!zinc-classfile_2.12.jar (1071ms)[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] org.reactivestreams#reactive-streams;1.0.3!reactive-streams.jar (409ms)[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] com.typesafe#ssl-config-core_2.12;0.6.1!ssl-config-core_2.12.jar(bundle) (450ms)[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.7.2/zinc-persist_2.12-1.7.2.jar ...[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.7.2/zinc-core_2.12-1.7.2.jar ...[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.7.2/zinc-compile-core_2.12-1.7.2.jar ...[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] com.jcraft#jsch;0.1.54!jsch.jar (1129ms)[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.7.2/zinc-persist-core-assembly-1.7.2.jar ...[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] com.typesafe#config;1.4.2!config.jar(bundle) (505ms)[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.2/scala-parser-combinators_2.12-1.1.2.jar ...[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/net/openhft/zero-allocation-hashing/0.10.1/zero-allocation-hashing-0.10.1.jar ...[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-persist_2.12;1.7.2!zinc-persist_2.12.jar (596ms)[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-compile-core_2.12;1.7.2!zinc-compile-core_2.12.jar (626ms)[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.5.1/sbinary_2.12-0.5.1.jar ...[0m
+2022.12.13 15:58:02 ERROR 	[SUCCESSFUL ] net.openhft#zero-allocation-hashing;0.10.1!zero-allocation-hashing.jar(bundle) (534ms)[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.7.3/protocol_2.12-1.7.3.jar ...[0m
+2022.12.13 15:58:02 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.5.0/ipcsocket-1.5.0.jar ...[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.2!scala-parser-combinators_2.12.jar(bundle) (975ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-sbt#sbinary_2.12;0.5.1!sbinary_2.12.jar (436ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-sbt.ipcsocket#ipcsocket;1.5.0!ipcsocket.jar (427ms)[0m
+2022.12.13 15:58:03 ERROR downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar ...[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-core_2.12;1.7.2!zinc-core_2.12.jar (1073ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-persist-core-assembly;1.7.2!zinc-persist-core-assembly.jar (1051ms)[0m
+2022.12.13 15:58:03 ERROR downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.3/slf4j-api-2.0.3.jar ...[0m
+2022.12.13 15:58:03 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745/ivy-2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745.jar ...[0m
+2022.12.13 15:58:03 ERROR downloading https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar ...[0m
+2022.12.13 15:58:03 ERROR downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.8.1/scala-collection-compat_2.12-2.8.1.jar ...[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-sbt#protocol_2.12;1.7.3!protocol_2.12.jar (529ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] com.eed3si9n#shaded-apache-httpasyncclient;0.7.0!shaded-apache-httpasyncclient.jar (1653ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] com.google.errorprone#error_prone_annotations;2.4.0!error_prone_annotations.jar (201ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.checkerframework#checker-qual;3.4.1!checker-qual.jar (202ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.16!scala-compiler.jar (3062ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.slf4j#slf4j-api;2.0.3!slf4j-api.jar (207ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-lang.modules#scala-collection-compat_2.12;2.8.1!scala-collection-compat_2.12.jar (290ms)[0m
+2022.12.13 15:58:03 ERROR 	[SUCCESSFUL ] org.scala-sbt.ivy#ivy;2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745!ivy.jar (514ms)[0m
+2022.12.13 15:58:03 ERROR :: retrieving :: org.scala-sbt#boot-app[0m
+2022.12.13 15:58:03 ERROR 	confs: [default][0m
+2022.12.13 15:58:03 ERROR 	81 artifacts copied, 0 already retrieved[0m
+2022.12.13 15:58:05 INFO  [info] welcome to sbt 1.7.3 (Oracle Corporation Java 17)[0m
+2022.12.13 15:58:08 INFO  [info] loading settings for project tp-note-build-build from metals.sbt ...[0m
+2022.12.13 15:58:10 INFO  [info] loading project definition from /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/project/project[0m
+2022.12.13 15:58:13 INFO  [info] loading settings for project tp-note-build from metals.sbt ...[0m
+2022.12.13 15:58:13 INFO  [info] loading project definition from /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/project[0m
+2022.12.13 15:58:21 INFO  [success] Generated .bloop/tp-note-build.json[0m
+2022.12.13 15:58:21 INFO  [success] Total time: 7 s, completed Dec 13, 2022, 3:58:21 PM[0m
+2022.12.13 15:58:24 INFO  [info] loading settings for project tp-note from build.sbt ...[0m
+2022.12.13 15:58:24 INFO  [info] set current project to hello-world (in build file:/Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/)[0m
+2022.12.13 15:58:24 INFO  [success] Generated .bloop/tp-note.json[0m
+2022.12.13 15:58:24 INFO  [success] Generated .bloop/tp-note-test.json[0m
+2022.12.13 15:58:24 INFO  [success] Total time: 1 s, completed Dec 13, 2022, 3:58:25 PM[0m
+2022.12.13 15:58:25 INFO  time: ran 'sbt bloopInstall' in 41s[0m
+2022.12.13 15:58:25 INFO  Attempting to connect to the build server...[0m
+2022.12.13 15:58:25 INFO  Bloop uses /Users/cryox/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/cryox/.bloop/bloop.json[0m
+2022.12.13 15:58:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/.metals/bsp.trace.json or /Users/cryox/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.12.13 15:58:25 INFO  Attempting to connect to the build server...[0m
+2022.12.13 15:58:25 INFO  Bloop uses /Users/cryox/.jabba/jdk/openjdk@1.17.0/Contents/Home defined at /Users/cryox/.bloop/bloop.json[0m
+2022.12.13 15:58:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/project/.metals/bsp.trace.json or /Users/cryox/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.12.13 15:58:25 INFO  time: Connected to build server in 0.81s[0m
+2022.12.13 15:58:25 INFO  Connected to Build server: Bloop v1.5.4[0m
+2022.12.13 15:58:26 INFO  time: Imported build in 0.12s[0m
+2022.12.13 15:58:34 INFO  time: indexed workspace in 7.77s[0m
+2022.12.13 15:59:02 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 15:59:05 INFO  time: compiled tp-note in 2.54s[0m
+2022.12.13 16:01:20 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:01:20 INFO  time: compiled tp-note in 0.42s[0m
+2022.12.13 16:01:46 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:01:46 INFO  time: compiled tp-note in 0.36s[0m
+Dec 13, 2022 4:02:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 335
+Dec 13, 2022 4:02:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 334
+Dec 13, 2022 4:02:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 339
+2022.12.13 16:02:25 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:02:25 INFO  time: compiled tp-note in 0.19s[0m
+2022.12.13 16:02:28 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:02:28 INFO  time: compiled tp-note in 0.15s[0m
+2022.12.13 16:02:32 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:02:33 INFO  time: compiled tp-note in 1.23s[0m
+Dec 13, 2022 4:02:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 387
+2022.12.13 16:02:55 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:02:55 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:02:55 INFO  time: compiled tp-note in 0.19s[0m
+2022.12.13 16:02:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:02:56 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:01 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:02 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:03 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:04 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:04 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:06 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:03:06 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:08 INFO  time: compiled tp-note in 1.84s[0m
+Dec 13, 2022 4:03:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 499
+2022.12.13 16:03:27 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:03:27 INFO  time: compiled tp-note in 0.84s[0m
+2022.12.13 16:03:34 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:03:35 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:34 INFO  time: compiled tp-note in 0.68s[0m
+2022.12.13 16:03:44 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:03:44 INFO  time: compiled tp-note in 0.57s[0m
+2022.12.13 16:03:52 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:03:52 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:03:52 INFO  time: compiled tp-note in 0.56s[0m
+Dec 13, 2022 4:04:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+2022.12.13 16:04:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:04:51 INFO  time: compiled tp-note in 0.73s[0m
+2022.12.13 16:06:34 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:06:34 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:06:34 INFO  time: compiled tp-note in 0.81s[0m
+2022.12.13 16:08:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:08:51 INFO  time: compiled tp-note in 0.69s[0m
+2022.12.13 16:09:03 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:09:03 INFO  time: compiled tp-note in 0.14s[0m
+2022.12.13 16:09:06 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:09:06 INFO  time: compiled tp-note in 0.22s[0m
+2022.12.13 16:09:06 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:09:06 INFO  time: compiled tp-note in 0.14s[0m
+Dec 13, 2022 4:09:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 943
+2022.12.13 16:09:31 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:09:32 INFO  time: compiled tp-note in 1.39s[0m
+2022.12.13 16:10:21 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:10:21 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:10:21 INFO  time: compiled tp-note in 0.83s[0m
+2022.12.13 16:11:12 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:11:12 INFO  time: compiled tp-note in 0.63s[0m
+2022.12.13 16:12:16 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:12:16 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:12:16 INFO  time: compiled tp-note in 0.69s[0m
+2022.12.13 16:12:42 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:12:42 INFO  time: compiled tp-note in 0.96s[0m
+Dec 13, 2022 4:12:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1116
+2022.12.13 16:12:58 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:12:59 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:12:58 INFO  time: compiled tp-note in 0.58s[0m
+2022.12.13 16:13:10 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/.metals/dap-server.trace.json or /Users/cryox/Library/Caches/org.scalameta.metals/dap-server.trace.json[0m
+2022.12.13 16:13:10 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/.metals/dap-client.trace.json or /Users/cryox/Library/Caches/org.scalameta.metals/dap-client.trace.json[0m
+2022.12.13 16:13:10 INFO  Starting debug proxy for [Main][0m
+2022.12.13 16:13:12 INFO  Trying to attach to remote debuggee VM localhost:59498 .[0m
+2022.12.13 16:13:12 INFO  Attaching to debuggee VM succeeded.[0m
+2022.12.13 16:13:12 INFO  Canceling debug proxy for [Main][0m
+2022.12.13 16:13:12 INFO  Closing debug server tcp://0.0.0.0:59495[0m
+Dec 13, 2022 4:13:12 PM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireError
+SEVERE: java.net.SocketException: Socket closed
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.net.SocketException: Socket closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.debug.SocketEndpoint.consume(SocketEndpoint.scala:22)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.consume(MessageIdAdapter.scala:43)
+	at scala.meta.internal.metals.debug.ServerAdapter.send(ServerAdapter.scala:30)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:146)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:65)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.SocketException: Socket closed
+	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:165)
+	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:366)
+	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:411)
+	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440)
+	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:826)
+	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1035)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 16 more
+
+2022.12.13 16:13:23 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:13:26 INFO  time: compiled tp-note in 2.44s[0m
+2022.12.13 16:15:33 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:15:33 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:15:33 INFO  time: compiled tp-note in 0.63s[0m
+2022.12.13 16:16:18 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:16:18 INFO  time: compiled tp-note in 0.51s[0m
+2022.12.13 16:16:38 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:16:38 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:16:38 INFO  time: compiled tp-note in 0.57s[0m
+2022.12.13 16:17:30 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:17:30 INFO  time: compiled tp-note in 0.75s[0m
+2022.12.13 16:18:19 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:18:19 INFO  time: compiled tp-note in 57ms[0m
+2022.12.13 16:18:24 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:18:25 INFO  time: compiled tp-note in 1.75s[0m
+2022.12.13 16:18:50 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:6:41: stale bloop warning: comparing values of types Char and String using `==` will always yield false
+    case _ =>println(chaine.trim()); if(chaine.head == " ") 1+compteMots(chaine.tail) else compteMots(chaine.tail)
+                                        ^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 16:18:50 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:6:41: stale bloop warning: comparing values of types Char and String using `==` will always yield false
+    case _ =>println(chaine.trim()); if(chaine.head == " ") 1+compteMots(chaine.tail) else compteMots(chaine.tail)
+                                        ^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 16:18:50 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:6:41: stale bloop warning: comparing values of types Char and String using `==` will always yield false
+    case _ =>println(chaine.trim()); if(chaine.head == " ") 1+compteMots(chaine.tail) else compteMots(chaine.tail)
+                                        ^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 16:18:50 INFO  file:///Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala:6:41: stale bloop warning: comparing values of types Char and String using `==` will always yield false
+    case _ =>println(chaine.trim()); if(chaine.head == " ") 1+compteMots(chaine.tail) else compteMots(chaine.tail)
+                                        ^^^^^^^^^^^^^^^^^^[0m
+2022.12.13 16:18:52 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:18:52 INFO  time: compiled tp-note in 0.7s[0m
+Dec 13, 2022 4:19:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1414
+2022.12.13 16:19:17 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:19:17 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:19:17 INFO  time: compiled tp-note in 0.49s[0m
+2022.12.13 16:19:37 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:19:37 INFO  time: compiled tp-note in 0.5s[0m
+2022.12.13 16:19:40 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:19:40 INFO  time: compiled tp-note in 61ms[0m
+2022.12.13 16:20:51 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:20:51 INFO  time: compiled tp-note in 0.58s[0m
+2022.12.13 16:21:05 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:21:05 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:21:05 INFO  time: compiled tp-note in 0.45s[0m
+2022.12.13 16:21:11 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:21:11 INFO  time: compiled tp-note in 0.27s[0m
+2022.12.13 16:21:16 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:21:16 INFO  time: compiled tp-note in 0.1s[0m
+2022.12.13 16:21:21 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:21:21 INFO  time: compiled tp-note in 0.65s[0m
+2022.12.13 16:22:14 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:22:15 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:22:14 INFO  time: compiled tp-note in 0.46s[0m
+Dec 13, 2022 4:22:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1680
+2022.12.13 16:22:46 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:22:48 INFO  time: compiled tp-note in 1.78s[0m
+2022.12.13 16:23:34 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:23:34 INFO  time: compiled tp-note in 0.61s[0m
+2022.12.13 16:23:45 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:23:45 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:23:45 INFO  time: compiled tp-note in 0.43s[0m
+2022.12.13 16:23:52 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:23:52 INFO  time: compiled tp-note in 0.71s[0m
+2022.12.13 16:23:57 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:23:57 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:23:57 INFO  time: compiled tp-note in 0.48s[0m
+2022.12.13 16:24:32 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:24:32 INFO  time: compiled tp-note in 0.45s[0m
+2022.12.13 16:25:07 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:25:07 INFO  time: compiled tp-note in 0.46s[0m
+2022.12.13 16:25:13 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:25:13 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:25:13 INFO  time: compiled tp-note in 0.44s[0m
+2022.12.13 16:25:26 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:25:28 INFO  time: compiled tp-note in 1.74s[0m
+2022.12.13 16:25:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:25:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:25:49 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:25:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:25:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:25:49 WARN  Could not load snapshot text for /Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/src/main/scala/Main.scala[0m
+2022.12.13 16:25:49 INFO  time: compiled tp-note in 0.71s[0m
+2022.12.13 16:26:14 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:26:14 INFO  time: compiled tp-note in 0.45s[0m
+2022.12.13 16:26:22 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:26:22 INFO  time: compiled tp-note in 0.4s[0m
+2022.12.13 16:26:25 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:26:25 INFO  time: compiled tp-note in 64ms[0m
+2022.12.13 16:26:32 INFO  compiling tp-note (1 scala source)[0m
+2022.12.13 16:26:32 INFO  time: compiled tp-note in 0.4s[0m

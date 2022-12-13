@@ -1,0 +1,4 @@
+[debug] [tp-note-test] Classpath dependencies List()
+[debug] [tp-note-test] Dependencies from configurations List(tp-note)
+[debug] Bloop wrote the configuration of project 'tp-note-test' to '/Users/cryox/Documents/Github/ESGI/programmation-fonctionnelle/tp-note/.bloop/tp-note-test.json'
+[success] Generated .bloop/tp-note-test.json
